@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**tonaka96/tonaka96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+## 🗿 SOBRE MÍ:
+Estudio actualmente en el desarrollo de software y sigo aprendiendo programación, con la intención en un futuro de trabajar en el desarrollo de videojuegos.
+## 🌐 REDES SOCIALES:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toni-franc%C3%A9s-jord%C3%A1n-13b4732b5)
+## 🖥️ TECNOLOGÍAS:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
