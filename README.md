@@ -9,4 +9,4 @@ Estudio actualmente en el desarrollo de software y sigo aprendiendo programació
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/tonaka96/img/refs/heads/main/banner-fondo-vector-geometrico-degradado-negro-oscuro_236657-332.png">
+<img src="https://raw.githubusercontent.com/tonaka96/img/refs/heads/main/fondo-abstracto-negro-moderno-elegante-diseno-vectorial-ilustracion-vectorial_29865-4442-transformed.png">
