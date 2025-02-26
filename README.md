@@ -9,5 +9,6 @@ Actualmente estudio en el desarrollo de software y sigo aprendiendo programació
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Apache Badge](https://img.shields.io/badge/apache-D22128?logo=apache&logoColor=fff&style=flat)
+![Maria](https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/tonaka96/img/refs/heads/main/fff.jpg">
