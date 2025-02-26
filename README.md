@@ -9,4 +9,4 @@ Actualmente estudio en el desarrollo de software y sigo aprendiendo programació
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/tonaka96/img/refs/heads/main/pixelcut-export.jpg">
+<img src="https://raw.githubusercontent.com/tonaka96/img/refs/heads/main/wqwed.jpg">
