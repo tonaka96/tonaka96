@@ -54,3 +54,6 @@ Actualmente estudio en el desarrollo de software y sigo aprendiendo programació
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
 
 </div>
+
+<!-- Para iconos en los botones: https://simpleicons.org/ -->
+<!-- Para iconos en el expositor: https://devicon.dev/ -->
