@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Antonio%20Francés&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Técnico%20Superior%20en%20Informática&descAlign=73" width="100%"/>
 
 
-# <picture><img src = "https://raw.githubusercontent.com/tonaka96/img/refs/heads/main/tonaka96-about_me.gif" width = 30px></picture> About me
+# <picture><img src = "https://raw.githubusercontent.com/tonaka96/img/refs/heads/main/tonaka96-about.gif" width = 30px></picture> About me
 Actualmente estudio en el desarrollo de software y sigo aprendiendo programación, con la intención en un futuro de trabajar en el desarrollo de videojuegos o de crear aplicaciones que ayuden a mejorar la eficiencia y capacidad de las personas en su día a día.
 
 ## <picture><img src = "https://raw.githubusercontent.com/tonaka96/img/refs/heads/main/tonaka96-contact.gif" width = 30px style="vertical-align: -3px;"></picture> CONECTA CONMIGO:
